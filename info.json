@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "9b54711710f3f3e86c7aae2ff5aef6411bfc6df0",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2020-12-09 15:47:15",
+    "files": 1,
+    "merge": false,
+    "message": "Fix a URL\n"
+  },
+  "remote": "https://github.com/ropensci/cld2",
+  "pkg": "cld2"
+}
