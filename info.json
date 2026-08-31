@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "e4c001f00c63ae1e7672175a1360ae2016027789",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2025-07-02T19:57:33Z",
+    "files": 1,
+    "merge": false,
+    "message": "Fix LTO\n"
+  },
+  "repo": "https://github.com/ropensci/cld2",
+  "pkg": "cld2",
+  "time": "2026-08-31T10:10:50Z"
+}
